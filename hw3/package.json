@@ -1,0 +1,16 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "Были добавлены Web Storage API — хранение настроений, заметок и настроек пользователя и Notification API — системные уведомления и напоминания о записи настроения. Также в этой версии было добавлено окно \"Настройки\" в виде шестеренки в правом верхнем углу экрана.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
