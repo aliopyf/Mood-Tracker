@@ -31,7 +31,7 @@ export function updateNotes() {
           </div>
           <p class="mood-entry__note">${note.content}</p>
         </div>
-        <button class="mood-entry__delete delete-btn" data-id="${note.id}" aria-label="Удал��ть">&times;</button>
+        <button class="mood-entry__delete delete-btn" data-id="${note.id}" aria-label="Удалить">&times;</button>
       </div>
     `;
   }).join('');
